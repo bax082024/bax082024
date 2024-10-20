@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bax082024
-- 👀 I’m interested in API`s, hockey, gaming, and i love Halloween
-- 🌱 I’m currently learning C#, :NET, API`s +++
+- 👀 I’m interested in ML.NET, API`s, hockey, gaming, and i love Halloween
+- 🌱 I’m currently learning C#, .NET, ML.NET, API`s +++
 - 💞️ I’m looking to collaborate on something fun
 - 📫 How to reach me bax082024@gmail.com
 - 😄 Pronouns: state-funded multi-millionaire. (Apparently the state doesnt agree)
