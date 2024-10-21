@@ -8,13 +8,13 @@ currently a backend student at kodehode!
 
 
 ##
-
-<img src="images/csharp.svg" alt="C#" width="40" height="40">
-<img src="images/javascript-original.svg" alt="JavaScript" width="40" height="40">
-<img src="images/github-original.svg" alt="GitHub" width="40" height="40">
-<img src="images/python-original.svg" alt="Python" width="40" height="40">
-<img src="images/csharp.svg" alt="C#" width="40" height="40">
-
+<div>
+  <img src="images/csharp.svg" alt="C#" width="40" height="40">
+  <img src="images/javascript-original.svg" alt="JavaScript" width="40" height="40">
+  <img src="images/github-original.svg" alt="GitHub" width="40" height="40">
+  <img src="images/python-original.svg" alt="Python" width="40" height="40">
+  <img src="images/windows8-original.svg" alt="Windows" width="40" height="40">
+</div>
 
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEE082024KH&hide=stars&show_icons=true&bg_color=100,242424,7D2323&title_color=9c3535&icon_color=9c3535&text_color=8c8c8c&border_color=787878&border_radius=10)](https://github.com/HEE082024KH/github-readme-stats)
