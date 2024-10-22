@@ -1,13 +1,13 @@
 # <img src="images/shubham-dhage-8UP_QbfMfPM-unsplash.jpg" alt="meg" width="100%" Height="140">                       
 
-Im Alex, new to coding and im currently a backend student at jobloop.
-my favorite language at the moment are C#, working with API`s, .NET, SQL etc, i am also curius about ML.NET.
-As a side hobby i do CAD designs and 3D printing
+ **Introduction :**
 
 - I`m Alex, im currently a backend student at jobloop.
 - my passion is C# and working with API`s, .NET, SQL etc.
 - My goals are to improve my knowledge and myself as a person.
+  
 
+###
 **Contact information**
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bax082024@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-busch-2789b4334/)
