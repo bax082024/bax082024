@@ -5,7 +5,9 @@ my favorite language at the moment are C#, i love working with API`s, .NET, SQL 
 
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bax082024@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/alexander-busch-2789b4334/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexander-busch-2789b4334
+
+)
 ## Skills
 <div>
   <img src="images/csharp.svg" alt="C#" width="40" height="40">
