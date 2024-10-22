@@ -21,7 +21,7 @@
 ### Frameworks & Tools
 | .NET | ASP.NET Core | Git | GitHub | Postman | Node.js |
 |---|---|---|---|---|---|
-| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="images/ASP.NET.svg" alt="ASP.NET Core" width="40" height="40"> | <img src="images/git.svg" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> |
+| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="images/aspnet.png" alt="ASP.NET Core" width="40" height="40"> | <img src="images/git.svg" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> |
 
 
 ### Platforms
