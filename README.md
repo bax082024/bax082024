@@ -19,9 +19,10 @@
 | <img src="images/csharp.svg" alt="C#" width="40" height="40"> | <img src="images/python-original.svg" alt="Python" width="40" height="40"> | <img src="images/Js.svg" alt="Node.js" width="40" height="40"> | <img src="images/HTML.svg" alt="HTML" width="40" height="40"> | <img src="images/CSS.svg" alt="CSS" width="40" height="40"> |
 
 ### Frameworks & Tools
-| .NET | ASP.NET Core | Git | GitHub | Postman | Node.js |
-|---|---|---|---|---|---|
-| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="images/aspnet.png" alt="ASP.NET Core" width="40" height="40"> | <img src="images/Git.svg" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> |
+| .NET | ASP.NET Core | Git | GitHub | Postman | Node.js | Thunder Client |
+|---|---|---|---|---|---|---|
+| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="images/aspnet.png" alt="ASP.NET Core" width="40" height="40"> | <img src="images/Git.svg" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> | <img src="images/Thunder.png" alt="Thunder Client" width="40" height="40"> |
+
 
 
 ### Platforms
