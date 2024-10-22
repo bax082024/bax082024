@@ -8,7 +8,8 @@ my favorite language at the moment are C#, i love working with API`s, .NET, SQL 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min bruker/)
 ## Skills
 <div>
-  <img src="images/csharp.svg" alt="C#" width="40" height="40">
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
   <img src="images/javascript-original.svg" alt="JavaScript" width="40" height="40">
   <img src="images/github-original.svg" alt="GitHub" width="40" height="40">
   <img src="images/python-original.svg" alt="Python" width="40" height="40">
