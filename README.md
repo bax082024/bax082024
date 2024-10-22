@@ -21,7 +21,7 @@
 ### Frameworks & Tools
 | .NET | ASP.NET Core | Git | GitHub | Postman |
 |---|---|---|---|---|
-| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" width="40" height="40"> | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/postman.svg" alt="Postman" width="40" height="40"> |
+| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" width="40" height="40"> | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> |
 
 ### Platforms
 | Docker | SQL Server | Visual Studio Code | PyCharm | Windows |
