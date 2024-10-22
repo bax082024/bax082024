@@ -1,4 +1,4 @@
-# <img src="images/shubham-dhage-5Sh0zR_mYQ4-unsplash.jpg" alt="meg" width="100%">                       
+# <img src="images/chip.jpg" alt="meg" width="100%">                       
 
 ## Introduction
 
