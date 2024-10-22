@@ -16,5 +16,5 @@ my favorite language at the moment are C#, i love working with API`s, .NET, SQL 
 </div>
 
 ###
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bax082024&hide=stars&show_icons=true&bg_color=100,242424,7D2323&title_color=d12e2e&icon_color=d12e2e&text_color=8c8c8c&border_color=787878&border_radius=10)](https://github.com/bax082024/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bax082024&layout=compact)
