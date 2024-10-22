@@ -1,4 +1,4 @@
-# <img src="images/chip.jpg" alt="meg" width="100%" height="150">                       
+# <img src="images/chip.jpg" alt="meg" width="100%" height="250">                       
 
 ## Introduction
 
