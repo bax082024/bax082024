@@ -1,7 +1,8 @@
 # <img src="images/meg.jpg" alt="meg" width="120" Height="140">                       
 
 Im Alex, new to coding and im currently a backend student at jobloop.
-my favorite language at the moment are C#, working with API`s, .NET, SQL etc, i am also curius about ML.NET. 
+my favorite language at the moment are C#, working with API`s, .NET, SQL etc, i am also curius about ML.NET.
+As a side hobby i do CAD designs and 3D printing
 
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bax082024@gmail.com)
