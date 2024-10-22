@@ -7,11 +7,9 @@
 - My goal is to continuously improve my knowledge and skills both personally and professionally.
  
 
-###
-**Contact information**
-[![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bax082024@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-busch-2789b4334/)
+## Contact Information
+<a href="mailto:bax082024@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/alexander-busch-2789b4334/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Skills
 <div>
