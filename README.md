@@ -1,4 +1,4 @@
-# <img src="images/shubham-dhage-8UP_QbfMfPM-unsplash.jpg" alt="meg" width="120" Height="140">                       
+# <img src="images/shubham-dhage-8UP_QbfMfPM-unsplash.jpg" alt="meg" width="100%" Height="140">                       
 
 Im Alex, new to coding and im currently a backend student at jobloop.
 my favorite language at the moment are C#, working with API`s, .NET, SQL etc, i am also curius about ML.NET.
