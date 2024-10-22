@@ -1,4 +1,4 @@
-# <img src="images/meg.jpg" alt="meg" width="80" Height="100">                       
+# <img src="images/meg.jpg" alt="meg" width="120" Height="140">                       
 
 Im Alex, new to coding and im currently a backend student at jobloop.
 my favorite language at the moment are C#, working with API`s, .NET, SQL etc, i am also curius about ML.NET. 
