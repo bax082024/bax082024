@@ -4,15 +4,23 @@ Im Alex, new to coding and im currently a backend student at jobloop.
 my favorite language at the moment are C#, working with API`s, .NET, SQL etc, i am also curius about ML.NET. 
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bax082024@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-busch-2789b4334/)
 ## Skills
 <div>
+  <img src="images/VSCode-Dark.svg" alt="vscode" width="40" height="40">
   <img src="images/csharp.svg" alt="C#" width="40" height="40">
-  <img src="images/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="images/github-original.svg" alt="GitHub" width="40" height="40">
-  <img src="images/python-original.svg" alt="Python" width="40" height="40">
-  <img src="images/windows8-original.svg" alt="Windows" width="40" height="40">
+  <img src="images/DotNet.svg" alt="DotNet" width="40" height="40">
+  <img src="images/NodeJS-Dark.svg" alt="node" width="40" height="40">
+  <img src="images/github-original.svg" alt="github" width="40" height="40">
+  <img src="images/python-original.svg" alt="python" width="40" height="40">
+  <img src="images/PyCharm-Dark.svg" alt="pycharm" width="40" height="40">
+  <img src="images/Azure-Dark.svg" alt="azure" width="40" height="40">
+  <img src="images/Blender-Dark.svg" alt="blender" width="40" height="40">
+  <img src="images/Figma-Dark.svg" alt="firgma" width="40" height="40">
+  <img src="images/windows8-original.svg" alt="windows" width="40" height="40">
 </div>
 
 ###
