@@ -1,10 +1,11 @@
 # <img src="images/meg.jpg" alt="meg" width="120" Height="140">                       
 
-## Introduction
+ **Introduction :**
 
 - I`m Alex, im currently a backend student at jobloop.
 - my passion is C# and working with API`s, .NET, SQL etc.
 - My goals are to improve my knowledge and myself as a person.
+  
 
 ###
 **Contact information**
