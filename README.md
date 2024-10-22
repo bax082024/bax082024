@@ -16,12 +16,13 @@
 ### Languages
 | C# | Python | JavaScript | HTML | CSS |
 |---|---|---|---|---|
-| <img src="images/csharp.svg" alt="C#" width="40" height="40"> | <img src="images/python-original.svg" alt="Python" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> | <img src="images/HTML.svg" alt="HTML" width="40" height="40"> | <img src="images/CSS.svg" alt="CSS" width="40" height="40"> |
+| <img src="images/csharp.svg" alt="C#" width="40" height="40"> | <img src="images/python-original.svg" alt="Python" width="40" height="40"> | <img src="images/Js.svg" alt="Node.js" width="40" height="40"> | <img src="images/HTML.svg" alt="HTML" width="40" height="40"> | <img src="images/CSS.svg" alt="CSS" width="40" height="40"> |
 
 ### Frameworks & Tools
-| .NET | ASP.NET Core | Git | GitHub | Postman |
-|---|---|---|---|---|
-| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" width="40" height="40"> | <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> |
+| .NET | ASP.NET Core | Git | GitHub | Postman | Node.js |
+|---|---|---|---|---|---|
+| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="images/ASP.NET.svg" alt="ASP.NET Core" width="40" height="40"> | <img src="images/git.svg" alt="Git" width="40" height="40"> | <img src="images/github-original.svg" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> |
+
 
 ### Platforms
 | Docker | SQL Server | Visual Studio Code | PyCharm | Windows |
