@@ -16,7 +16,7 @@
 ### Languages
 | C# | Python | JavaScript | HTML | CSS |
 |---|---|---|---|---|
-| <img src="images/csharp.svg" alt="C#" width="40" height="40"> | <img src="images/python-original.svg" alt="Python" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> | <img src="images/html5.svg" alt="HTML" width="40" height="40"> | <img src="images/css3.svg" alt="CSS" width="40" height="40"> |
+| <img src="images/csharp.svg" alt="C#" width="40" height="40"> | <img src="images/python-original.svg" alt="Python" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> | <img src="images/HTML.svg" alt="HTML" width="40" height="40"> | <img src="images/CSS.svg" alt="CSS" width="40" height="40"> |
 
 ### Frameworks & Tools
 | .NET | ASP.NET Core | Git | GitHub | Postman |
@@ -26,7 +26,7 @@
 ### Platforms
 | Docker | SQL Server | Visual Studio Code | PyCharm | Windows |
 |---|---|---|---|---|
-| <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="40" height="40"> | <img src="images/SQLServer.svg" alt="SQL Server" width="40" height="40"> | <img src="images/VSCode-Dark.svg" alt="VS Code" width="40" height="40"> | <img src="images/PyCharm-Dark.svg" alt="PyCharm" width="40" height="40"> | <img src="images/windows8-original.svg" alt="Windows" width="40" height="40"> |
+| <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="40" height="40"> | <img src="images/SQLite.svg" alt="SQL Server" width="40" height="40"> | <img src="images/VSCode-Dark.svg" alt="VS Code" width="40" height="40"> | <img src="images/PyCharm-Dark.svg" alt="PyCharm" width="40" height="40"> | <img src="images/windows8-original.svg" alt="Windows" width="40" height="40"> |
 
 
 
