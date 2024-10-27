@@ -51,3 +51,7 @@
 ## Featured Projects
 
 ### [Project 1: Max Bax Clicker Game](https://github.com/bax082024/max-bax-clicker)
+- A fun clicker game inspired by popular clicker games, where players earn points and progress through levels
+
+### [Project 2: CalCulator](https://github.com/bax082024/CalculatorBasic)
+- Basic calculator with add, subtract, multiply and divide function
