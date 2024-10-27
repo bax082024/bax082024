@@ -4,6 +4,7 @@
 
 - I'm Alex, currently a backend development student at Jobloop.
 - My passion lies in C#, .NET, and working with APIs and SQL.
+- I also have a strong interest in 3D printing! using CAD programs to design and printing them on my 3D printer.
 - My goal is to continuously improve my knowledge and skills both personally and professionally.
 
 
