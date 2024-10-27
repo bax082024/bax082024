@@ -10,16 +10,14 @@
 
 ## Contact Information
 
-<span style="display: inline-block; margin-right: 10px;">
-  <a href="mailto:bax082024@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="150" height="50">
-  </a>
-</span>
-<span style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/alexander-busch-2789b4334/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50">
-  </a>
-</span>
+<a href="mailto:bax082024@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="150" height="50">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexander-busch-2789b4334/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50">
+</a>
+
 
 
 
