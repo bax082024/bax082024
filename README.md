@@ -58,3 +58,6 @@
 
 ### [Project 3: Max Bax Clicker Game](https://github.com/bax082024/max-bax-clicker)
 - A fun clicker game inspired by popular clicker games, where players earn points and progress through levels
+
+### [Project 4: DrivinGame](https://github.com/bax082024/DrivinGame-)
+- This is a driving game made for the terminal.
