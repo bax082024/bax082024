@@ -50,8 +50,11 @@
 
 ## Featured Projects
 
-### [Project 1: Max Bax Clicker Game](https://github.com/bax082024/max-bax-clicker)
-- A fun clicker game inspired by popular clicker games, where players earn points and progress through levels
+### [Project 1: HockeyclubAPI](https://github.com/bax082024/HockeyClubAPI)
+- Challenge for myself to implement authentication and authorization for different user classes.
 
 ### [Project 2: Calculator](https://github.com/bax082024/CalculatorBasic)
 - Basic calculator with add, subtract, multiply and divide function
+
+### [Project 3: Max Bax Clicker Game](https://github.com/bax082024/max-bax-clicker)
+- A fun clicker game inspired by popular clicker games, where players earn points and progress through levels
