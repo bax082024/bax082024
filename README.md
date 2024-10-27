@@ -24,9 +24,10 @@
 | <img src="images/csharp.svg" alt="C#" width="40" height="40"> | <img src="images/python-original.svg" alt="Python" width="40" height="40"> | <img src="images/Js.svg" alt="JavaScript" width="40" height="40"> | <img src="images/HTML.svg" alt="HTML" width="40" height="40"> | <img src="images/CSS.svg" alt="CSS" width="40" height="40"> |
 
 ### Frameworks & Tools
-| .NET | ASP.NET Core | Git | GitHub | Postman | Node.js | Thunder Client | Figma | Autodesk | Ultimaker Cura |
-|---|---|---|---|---|---|---|---|---|---|
-| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="images/aspnet.png" alt="ASP.NET Core" width="40" height="40"> | <img src="images/Git.svg" alt="Git" width="40" height="40"> | <img src="images/white-git.png" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> | <img src="images/Thunder.png" alt="Thunder Client" width="40" height="40"> | <img src="images/Figma-Dark.svg" alt="Figma" width="40" height="40"> | <img src="images/autodesk.png" alt="Autodesk" width="40" height="40"> | <img src="images/ultimaker-cura.png" alt="Ultimaker Cura" width="40" height="40"> |
+| .NET | ASP.NET Core | Git | GitHub | Postman | Node.js | Thunder Client | Figma | Autodesk | Ultimaker Cura | Blender | Azure |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| <img src="images/DotNet.svg" alt=".NET" width="40" height="40"> | <img src="images/aspnet.png" alt="ASP.NET Core" width="40" height="40"> | <img src="images/Git.svg" alt="Git" width="40" height="40"> | <img src="images/white-git.png" alt="GitHub" width="40" height="40"> | <img src="images/Postman.svg" alt="Postman" width="40" height="40"> | <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"> | <img src="images/Thunder.png" alt="Thunder Client" width="40" height="40"> | <img src="images/Figma-Dark.svg" alt="Figma" width="40" height="40"> | <img src="images/autodesk.png" alt="Autodesk" width="40" height="40"> | <img src="images/ultimaker-cura.png" alt="Ultimaker Cura" width="40" height="40"> | <img src="images/Blender-Dark.svg" alt="Blender" width="40" height="40"> | <img src="images/Azure-Dark.svg" alt="Azure" width="40" height="40"> |
+
 
 ### Platforms
 | Docker | SQL Server | Visual Studio Code | PyCharm | Windows |
