@@ -46,7 +46,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bax082024&hide=stars&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=79ff97&text_color=ffffff&border_color=30363d&border_radius=10)](https://github.com/bax082024/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bax082024&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=30363d&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bax082024&layout=compact&bg_color=0d1117&size_weight=0.2&count_weight=0.5&title_color=ffffff&text_color=ffffff&border_color=30363d&border_radius=10)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bax082024&show_icons=true&bg_color=100,ffecd9,f21f1f&title_color=f21f1f&icon_color=f21f1f&text_color=636363&border_color=787878&border_radius=10&theme=default#gh-light-mode-only)](https://github.com/bax082024/github-readme-stats#gh-light-mode-only)
 
