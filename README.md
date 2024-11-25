@@ -57,7 +57,7 @@
 - Basic calculator with add, subtract, multiply and divide function
 
 ### [Project 3: Magic 8 Ball](https://github.com/bax082024/Magic-8-Ball-JS.git)
-- A fun clicker game inspired by popular clicker games, where players earn points and progress through levels
+- Old school magic 8 ball to help make decisions.
 
 ### [Project 4: DrivinGame](https://github.com/bax082024/DrivinGame-)
 - This is a driving game made for the terminal.
