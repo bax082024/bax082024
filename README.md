@@ -17,7 +17,8 @@
 <a href="https://www.linkedin.com/in/alexander-busch-2789b4334/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50">
 </a>
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://discordapp.com/users/1274996112578707456"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" width="150" height="50px"></a>
 
 
 
