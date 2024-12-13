@@ -36,14 +36,14 @@ My goal is to continuously enhance my skills in backend development, security, a
 ## Skills
 
 ### Languages
- <img src="images/csharp.svg" alt="C#" width="40" height="40">  <img src="images/python-original.svg" alt="Python" width="40" height="40">  <img src="images/Js.svg" alt="JavaScript" width="40" height="40">  <img src="images/HTML.svg" alt="HTML" width="40" height="40">  <img src="images/CSS.svg" alt="CSS" width="40" height="40"> 
+ <img src="images/csharp.svg" alt="C#" width="40" height="40">  <img src="images/python-original.svg" alt="Python" width="40" height="40">  <img src="images/Js.svg" alt="JavaScript" width="40" height="40">  <img src="images/HTML.svg" alt="HTML" width="40" height="40">  <img src="images/CSS.svg" alt="CSS" width="40" height="40"><img src="images/json.png" alt="CSS" width="40" height="40">
 
 ### Frameworks & Tools 
  <img src="images/DotNet.svg" alt=".NET" width="40" height="40">  <img src="images/aspnet.png" alt="ASP.NET Core" width="40" height="40">  <img src="images/Git.svg" alt="Git" width="40" height="40">  <img src="images/white-git.png" alt="GitHub" width="40" height="40">  <img src="images/Postman.svg" alt="Postman" width="40" height="40">  <img src="images/NodeJS-Dark.svg" alt="Node.js" width="40" height="40">  <img src="images/Thunder.png" alt="Thunder Client" width="40" height="40">  <img src="images/Figma-Dark.svg" alt="Figma" width="40" height="40">  <img src="images/autodesk.png" alt="Autodesk" width="40" height="40">  <img src="images/ultimaker-cura.png" alt="Ultimaker Cura" width="40" height="40">  <img src="images/Blender-Dark.svg" alt="Blender" width="40" height="40">  <img src="images/Azure-Dark.svg" alt="Azure" width="40" height="40"> 
 
 
 ### Platforms
- <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="40" height="40">  <img src="images/SQLite.svg" alt="SQL Server" width="40" height="40">  <img src="images/VSCode-Dark.svg" alt="Visual Studio Code" width="40" height="40">  <img src="images/VisualStudio.svg" alt="Visual Studio" width="40" height="40">  <img src="images/PyCharm-Dark.svg" alt="PyCharm" width="40" height="40">  <img src="images/windows8-original.svg" alt="Windows" width="40" height="40">  
+ <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="40" height="40">  <img src="images/SQLite.svg" alt="SQL Server" width="40" height="40">  <img src="images/VSCode-Dark.svg" alt="Visual Studio Code" width="40" height="40">  <img src="images/VisualStudio.svg" alt="Visual Studio" width="40" height="40">  <img src="images/PyCharm-Dark.svg" alt="PyCharm" width="40" height="40">  <img src="images/windows.png" alt="Windows" width="40" height="40"><img src="images/sql.png" alt="CSS" width="40" height="40">   
 
 
 
@@ -75,3 +75,7 @@ My goal is to continuously enhance my skills in backend development, security, a
 
 ### [Project 5: MovieDatabaseAPI](https://github.com/bax082024/MovieDataBaseAPI)
 - Movie database i made to practice coding.
+
+
+## Acknowledgemnts:
+Icons from : https://icons8.com/icons/set/github
