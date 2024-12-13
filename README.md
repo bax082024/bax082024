@@ -7,11 +7,11 @@ I specialize in C#, .NET, and building robust APIs integrated with SQL databases
 
 I have a particular interest in:
 
-- **Encryption and Security:**Exploring techniques like hashing, salting, and file encryption.
-- **Data Handling:**From serialization (ex, JSON) to real-time data processing.
-- **Machine Learning:**Experimenting with ML.NET for clustering, sentiment analysis, and anomaly detection.
-- **Windows Forms Development:**Creating user-friendly desktop applications with engaging interfaces.
-- **Game Development:**Building fun projects like Snake, Breakout, and Connect 4, using C#.
+- **Encryption and Security:** Exploring techniques like hashing, salting, and file encryption.
+- **Data Handling:** From serialization (ex, JSON) to real-time data processing.
+- **Machine Learning:** Experimenting with ML.NET for clustering, sentiment analysis, and anomaly detection.
+- **Windows Forms Development:** Creating user-friendly desktop applications with engaging interfaces.
+- **Game Development:** Building fun projects like Snake, Breakout, and Connect 4, using C#.
 
 Outside of coding, I enjoy 3D printing, using CAD tools to design custom creations for printing on my 3D printer.
 
