@@ -2,10 +2,20 @@
 
 ## Introduction
 
-- I'm Alex, currently a backend development student at Jobloop.
-- My passion lies in C#, .NET, and working with APIs and SQL.
-- I also have a strong interest in 3D printing! using CAD programs to design and printing them on my 3D printer.
-- My goal is to continuously improve my knowledge and skills both personally and professionally.
+Hi, I’m Alex, a backend development student at Jobloop with a strong passion for making efficient and secure software solutions.
+I specialize in C#, .NET, and building robust APIs integrated with SQL databases.
+
+I have a particular interest in:
+
+- **Encryption and Security:**Exploring techniques like hashing, salting, and file encryption.
+- **Data Handling:**From serialization (ex, JSON) to real-time data processing.
+- **Machine Learning:**Experimenting with ML.NET for clustering, sentiment analysis, and anomaly detection.
+- **Windows Forms Development:**Creating user-friendly desktop applications with engaging interfaces.
+- **Game Development:**Building fun projects like Snake, Breakout, and Connect 4, using C#.
+
+Outside of coding, I enjoy 3D printing, using CAD tools to design custom creations for printing on my 3D printer.
+
+My goal is to continuously enhance my skills in backend development, security, and machine learning, while also exploring new technologies like desktop and web application development. Feel free to explore my projects and reach out—I’m always open to learning and collaboration!
 
 
 ## Contact Information
