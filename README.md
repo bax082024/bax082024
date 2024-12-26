@@ -65,7 +65,7 @@ My goal is to continuously enhance my skills in backend development, security, a
 ### [Project 1: HockeyclubAPI](https://github.com/bax082024/HockeyClubAPI)
 - Challenge for myself to implement authentication and authorization for different user classes.
 
-### [Project 2: Calculator](https://github.com/bax082024/CalculatorBasic)
+### [Project 2: TicTacToe](https://github.com/bax082024/TicTacToe)
 - Basic calculator with add, subtract, multiply and divide function
 
 ### [Project 3: Magic 8 Ball](https://github.com/bax082024/Magic-8-Ball-JS.git)
