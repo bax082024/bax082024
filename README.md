@@ -71,11 +71,12 @@ My goal is to continuously enhance my skills in backend development, security, a
 ### [Project 3: Magic 8 Ball](https://github.com/bax082024/Magic-8-Ball-JS.git)
 - Old school magic 8 ball to help make decisions.
 
-### [Project 4: DrivinGame](https://github.com/bax082024/DrivinGame-)
-- This is a driving game made for the terminal.
+### [Project 4: Random Prize Drawer](https://github.com/bax082024/RandomPrizeDrawer.git)
+- A program to help choose winners for the prizes.
 
 ### [Project 5: MovieDatabaseAPI](https://github.com/bax082024/MovieDataBaseAPI)
 - Movie database i made to practice coding.
+
 
 
 ## Acknowledgemnts:
