@@ -77,6 +77,9 @@ My goal is to continuously enhance my skills in backend development, security, a
 ### [Project 5: MovieDatabaseAPI](https://github.com/bax082024/MovieDataBaseAPI)
 - Movie database i made to practice coding.
 
+### [Project 6: Random Name Selector](https://github.com/bax082024/RandomNameSelector.git)
+- A Random name selector.
+
 
 
 ## Acknowledgemnts:
