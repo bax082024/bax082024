@@ -66,7 +66,7 @@ My goal is to continuously enhance my skills in backend development, security, a
 - Challenge for myself to implement authentication and authorization for different user classes.
 
 ### [Project 2: TicTacToe](https://github.com/bax082024/TicTacToe)
-- Basic calculator with add, subtract, multiply and divide function
+
 
 ### [Project 3: Magic 8 Ball](https://github.com/bax082024/Magic-8-Ball-JS.git)
 - Old school magic 8 ball to help make decisions.
