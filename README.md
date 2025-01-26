@@ -8,6 +8,7 @@ I specialize in C#, .NET, and building robust APIs integrated with SQL databases
 I have a particular interest in:
 - **REST API:** I work alot with API`s, HTTP functions etc.
 - **SQL:** Using SQL alot in combination with the API projects.
+- **Maui:** Exploring the possibilities of mobileapps.
 - **Encryption and Security:** Exploring techniques like hashing, salting, and file encryption.
 - **Data Handling:** From serialization (ex, JSON) to real-time data processing.
 - **Machine Learning:** Experimenting with ML.NET for clustering, sentiment analysis, and anomaly detection.
