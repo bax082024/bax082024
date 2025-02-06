@@ -58,7 +58,7 @@ My goal is to continuously enhance my skills in backend development, security, a
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bax082024&show_icons=true&bg_color=100,ffecd9,f21f1f&title_color=f21f1f&icon_color=f21f1f&text_color=636363&border_color=787878&border_radius=10&theme=default#gh-light-mode-only)](https://github.com/bax082024/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bax082024&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=120,ffecd9,f21f1f&title_color=f21f1f&icon_color=f21f1f&text_color=636363&border_color=787878&border_radius=10&theme=default#gh-light-mode-only)](https://github.com/bax082024/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bax082024&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=120,ffecd9,f21f1f&title_color=f21f1f&icon_color=f21f1f&text_color=636363&border_color=787878&border_radius=10&theme=default#gh-light-mode-only)](https://github.com/bax082024/github-readme-stats#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=bax082024&color=30363d&style=flat-square)
 
