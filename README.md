@@ -3,7 +3,7 @@
 ## Introduction
 
 Hi, I’m Alex, a backend development student at Jobloop with a strong passion for making efficient and secure software solutions.
-I specialize in C#, .NET, and building robust APIs integrated with SQL databases.
+I specialize in C#, .NET, and building robust APIs integrated with SQL databases using REACT frontend.
 
 I have a particular interest in:
 - **REST API:** I work alot with API`s, HTTP functions etc.
