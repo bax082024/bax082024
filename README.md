@@ -1,4 +1,4 @@
-# <img src="images/chip.jpg" alt="meg" width="100%" height="250">
+
 
 # <img src="images/chip-anim.svg" alt="Animated circuit banner" width="100%" height="250">
 
