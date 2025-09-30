@@ -1,53 +1,95 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
-  <title id="title">Animated circuit banner</title>
-  <desc id="desc">Subtle scanning glow with a moving signal along a PCB trace.</desc>
+  <title id="title">Animated circuit banner — High Impact</title>
+  <desc id="desc">Glowing PCB with multiple animated traces, dual moving signals, and a scanning sweep.</desc>
 
+  <!-- ============= DEFINITIONS ============= -->
   <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="b"></feGaussianBlur>
+    <!-- Neon glow -->
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.3" result="b1"></feGaussianBlur>
+      <feGaussianBlur stdDeviation="5" result="b2"></feGaussianBlur>
       <feMerge>
-        <feMergeNode in="b"></feMergeNode>
+        <feMergeNode in="b2"></feMergeNode>
+        <feMergeNode in="b1"></feMergeNode>
         <feMergeNode in="SourceGraphic"></feMergeNode>
       </feMerge>
     </filter>
 
+    <!-- Scan sweep gradient -->
     <linearGradient id="scan" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0d1117" stop-opacity="1"></stop>
-      <stop offset="47%" stop-color="#0d1117" stop-opacity="1"></stop>
-      <stop offset="50%" stop-color="#00e5ff" stop-opacity="0.12"></stop>
-      <stop offset="53%" stop-color="#0d1117" stop-opacity="1"></stop>
+      <stop offset="46%" stop-color="#0d1117" stop-opacity="1"></stop>
+      <stop offset="50%" stop-color="#00e5ff" stop-opacity="0.18"></stop>
+      <stop offset="54%" stop-color="#0d1117" stop-opacity="1"></stop>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="1"></stop>
+    </linearGradient>
+
+    <!-- Accent gradient for some traces (cyan→mint) -->
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"></stop>
+      <stop offset="100%" stop-color="#79ff97"></stop>
     </linearGradient>
   </defs>
 
-  <!-- background -->
+  <!-- ============= BACKGROUND ============= -->
   <rect width="1200" height="250" fill="#0d1117"></rect>
 
-  <!-- faint grid -->
-  <g stroke="#00e5ff" stroke-opacity="0.18" stroke-width="1">
-    <path d="M0 50 H1200 M0 100 H1200 M0 150 H1200 M0 200 H1200"></path>
-    <path d="M100 0 V250 M300 0 V250 M500 0 V250 M700 0 V250 M900 0 V250 M1100 0 V250"></path>
+  <!-- Faint grid -->
+  <g stroke="#00e5ff" stroke-opacity="0.16" stroke-width="1">
+    <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200"></path>
+    <path d="M60 0 V250 M180 0 V250 M300 0 V250 M420 0 V250 M540 0 V250 M660 0 V250 M780 0 V250 M900 0 V250 M1020 0 V250 M1140 0 V250"></path>
   </g>
 
-  <!-- traces -->
-  <g fill="none" stroke="#00e5ff" stroke-width="2" filter="url(#glow)">
-    <path id="trace" d="M80,200 H360 V120 H780 V90 H1080" opacity="0.55" stroke-dasharray="6 6">
-      <animate attributeName="stroke-dashoffset" from="0" to="-12" dur="1.5s" repeatCount="indefinite"></animate>
+  <!-- ============= TRACES ============= -->
+  <g fill="none" filter="url(#glow)">
+    <!-- Primary bus (animated dashes) -->
+    <path id="t1" d="M80,200 H360 V120 H780 V90 H1080" stroke="url(#wire)" stroke-width="2.6" opacity="0.9" stroke-dasharray="10 8">
+      <animate attributeName="stroke-dashoffset" from="0" to="-18" dur="1.4s" repeatCount="indefinite"></animate>
     </path>
-    <path d="M260,210 H520 V130 H620 V60 H940" opacity="0.35"></path>
-    <path d="M160,170 H420 V80 H560 V110 H880" opacity="0.35"></path>
+
+    <!-- Secondary buses -->
+    <path id="t2" d="M110,185 H380 V105 H700 V70 H980" stroke="#00e5ff" stroke-width="2" opacity="0.55"></path>
+    <path id="t3" d="M160,170 H420 V80 H560 V110 H880" stroke="#79ff97" stroke-width="2" opacity="0.45"></path>
+    <path id="t4" d="M260,210 H520 V130 H620 V60 H940" stroke="#00e5ff" stroke-width="2" opacity="0.45"></path>
+    <path id="t5" d="M210,145 H460 V95 H640 V140 H920" stroke="#79ff97" stroke-width="1.8" opacity="0.4"></path>
+
+    <!-- Small branch traces -->
+    <g stroke="#00e5ff" stroke-width="1.6" opacity="0.4">
+      <path d="M360,120 V60 H420"></path>
+      <path d="M520,130 V170 H610"></path>
+      <path d="M700,70 V40 H760"></path>
+      <path d="M820,90 V130 H900"></path>
+    </g>
   </g>
 
-  <!-- moving signal -->
-  <circle r="4" fill="#00e5ff" filter="url(#glow)">
-    <animateMotion dur="3s" repeatCount="indefinite" rotate="auto">
-      <mpath xlink:href="#trace" href="#trace"></mpath>
-    </animateMotion>
-    <animate attributeName="r" values="3;5;3" dur="1.2s" repeatCount="indefinite"></animate>
-  </circle>
+  <!-- ============= MOVING SIGNALS ============= -->
+  <g filter="url(#glow)">
+    <!-- Signal 1 on t1 -->
+    <circle r="5" fill="#00e5ff">
+      <animateMotion dur="2.2s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#t1" href="#t1"></mpath>
+      </animateMotion>
+      <animate attributeName="r" values="4.2;6;4.2" dur="1s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="1s" repeatCount="indefinite"></animate>
+    </circle>
 
-  <!-- scanning sweep -->
+    <!-- Signal 2 on t3 (offset start) -->
+    <circle r="4.5" fill="#79ff97">
+      <animateMotion dur="2.8s" begin="0.9s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#t3" href="#t3"></mpath>
+      </animateMotion>
+      <animate attributeName="r" values="3.6;5.2;3.6" dur="1.1s" repeatCount="indefinite"></animate>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.1s" repeatCount="indefinite"></animate>
+    </circle>
+  </g>
+
+  <!-- ============= SCANNING SWEEP ============= -->
   <rect x="-1200" y="0" width="1200" height="250" fill="url(#scan)">
-    <animate attributeName="x" from="-1200" to="1200" dur="4.5s" repeatCount="indefinite"></animate>
+    <animate attributeName="x" from="-1200" to="1200" dur="3.6s" repeatCount="indefinite"></animate>
   </rect>
+
+  <!-- Subtle global flicker for “electronics” feel -->
+  <g opacity="0.98">
+    <animate attributeName="opacity" values="0.98;1;0.98" dur="2.4s" repeatCount="indefinite"></animate>
+  </g>
 </svg>
