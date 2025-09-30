@@ -1,5 +1,8 @@
 # <img src="images/chip.jpg" alt="meg" width="100%" height="250">
 
+# <img src="images/chip-anim.svg" alt="Animated circuit banner" width="100%" height="250">
+
+
 ## Introduction
 
 Hi, I’m Alex, a backend development student at Jobloop with a strong passion for making efficient and secure software solutions.
